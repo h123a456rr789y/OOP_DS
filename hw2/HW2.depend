@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490692011 source:d:\x555jk\desktop\hw2\0516072_link_list.cpp
+	<iostream>
+	<string>
+	"0516072_Link_List.h"
+
+1490692209 d:\x555jk\desktop\hw2\0516072_link_list.h
+	<iostream>
+
+1490691011 source:d:\x555jk\desktop\hw2\main.cpp
+	<iostream>
+	"0516072_Link_List.h"
+
